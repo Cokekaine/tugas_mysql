@@ -1,7 +1,0 @@
-Nama : Tirta Raja
-
-NIM : 0110121002
-
-Universitas : STT Terpadu Nurul FIkri
-
-Link : https://github.com/Cokekaine/tugas_mysql.git
